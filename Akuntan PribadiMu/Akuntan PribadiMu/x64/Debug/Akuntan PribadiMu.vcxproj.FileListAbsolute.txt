@@ -1,0 +1,4 @@
+C:\Users\akhsi\OneDrive\Documents\Akuntan PribadiMU\Akuntan PribadiMu\x64\Debug\Akuntan PribadiMu.vcxproj.AssemblyReference.cache
+C:\Users\akhsi\OneDrive\Documents\Akuntan PribadiMU\Akuntan PribadiMu\x64\Debug\AkuntanPribadiMu.loginform.resources
+C:\Users\akhsi\OneDrive\Documents\Akuntan PribadiMU\Akuntan PribadiMu\x64\Debug\Akuntan PribadiMu.vcxproj.GenerateResource.cache
+C:\Users\akhsi\OneDrive\Documents\Akuntan PribadiMU\Akuntan PribadiMu\x64\Debug\AkuntanPribadiMu.akuntan.resources
